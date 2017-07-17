@@ -1,0 +1,19 @@
+#before
+{
+  border: 10px solid pink;
+  padding: 10px;
+}
+#after
+{
+  border: 10px solid pink;
+  padding: 10px;
+}
+.image
+{
+  width: 400px;
+  height: 520px;
+}
+.Donald
+{
+  display: inline;
+}
